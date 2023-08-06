@@ -11,6 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 *Use https://github.com/coreybutler/nvm-windows/releases 'nvm' if you are on Windows.
 *Use 'n' if you are on Mac/Unix
 
+Note: This is the most up-to-date version of the published site, forked from the original creator (the original repository is here: https://github.com/shresthayaman/studyAbroad-app)
 
 
 ## Development server
